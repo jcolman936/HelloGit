@@ -1,3 +1,10 @@
+/**
+ * Author: Jaedyn Colman
+ *         jcolman2@huskers.unl.edu
+ * Date: 2025/08/29
+ *
+ * Basic Hello World Program in Java.
+ */
 public class Hello {
 	public static void main(String args[]) {
 		System.out.println("Hello World!");
@@ -7,3 +14,4 @@ public class Hello {
 
 	}
 }
+
